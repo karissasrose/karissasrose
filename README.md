@@ -11,4 +11,4 @@ I'm a recent graduate from the University of California, Irvine with a Bachelor'
 
 [Vaki Deki Coding Club!](https://studio.code.org/projects/applab/aQuoB-GzR00bNePu1VQGVmGt65Bv4zCJPwjwODHRxCY) — A visual novel coded in Java where you talk to someone in a coding club and play a code-themed word minigame with her. I created all the art myself in Microsoft paint!
 
-https://turbowarp.org/147186524?size=960x720
+[Diablo Demon Hunter Arena](https://turbowarp.org/147186524?size=960x720) — An arcade style game featuring a controllable player character that takes place in an encloded arena. Enemies constantly spawn in waves and get stronger over time. The player can level up and defeat bosses to obtain unique power-ups to enhance to run. The gameplay is inspired by Blizzard Entertainment's Diablo. Coded using the Massachusetts Institute of Technology's coding application known as Scratch.
