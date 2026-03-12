@@ -17,7 +17,7 @@ In terms of programming languages, I am well versed in Python Java, C, and C++.
 
 
 ---
-#📧 Connect with me!
+# Connect with me! 📧
 
 - LinkedIn — [linkedin.com/in/karissa-rose-pratt](https://www.linkedin.com/in/karissa-rose-pratt/)
 - Email — karissasrose@gmail.com 
